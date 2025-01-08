@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <measure>
   <schema_version>3.1</schema_version>
-  <error>Failed to infer measure name from '/mnt/c/OSSTD_repos/openstudio-building-energy-standard-measures-gem/./lib/measures/GenerateConStrainReport/measure.py'</error>
+  <error>Failed to infer measure name from '/github/workspace/./lib/measures/GenerateConStrainReport/measure.py'</error>
   <name>generate_constrain_report</name>
   <uid>5cd98b4e-ddfe-44ab-9dca-d9885f57a316</uid>
-  <version_id>379648d5-0c18-45b2-9fed-3df585a419d8</version_id>
-  <version_modified>2024-08-29T17:41:59Z</version_modified>
+  <version_id>3c70256e-4c79-4172-9daf-a7b4ad06e761</version_id>
+  <version_modified>2024-12-20T20:55:20Z</version_modified>
   <xml_checksum>7C9D3672</xml_checksum>
   <class_name>GenerateConStrainReport</class_name>
   <display_name>Generate a ConStrain report.</display_name>
@@ -48,7 +48,7 @@
       <filename>LICENSE.md</filename>
       <filetype>md</filetype>
       <usage_type>license</usage_type>
-      <checksum>00000000</checksum>
+      <checksum>1A54BA1E</checksum>
     </file>
     <file>
       <filename>README.md</filename>
@@ -101,7 +101,7 @@
       <filename>test_measure.py</filename>
       <filetype>py</filetype>
       <usage_type>test</usage_type>
-      <checksum>EA55421A</checksum>
+      <checksum>609009C1</checksum>
     </file>
   </files>
 </measure>

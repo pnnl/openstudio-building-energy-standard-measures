@@ -3,8 +3,8 @@
   <schema_version>3.1</schema_version>
   <name>create_baseline_building</name>
   <uid>a984a630-2a41-45fd-80ec-6454777bf253</uid>
-  <version_id>6d81dd33-9c51-47f5-a1e3-c0fcfac0322f</version_id>
-  <version_modified>2024-04-30T17:17:19Z</version_modified>
+  <version_id>ebff5243-0083-4a3f-bd50-5fa787437d8e</version_id>
+  <version_modified>2024-12-20T20:55:20Z</version_modified>
   <xml_checksum>8FF2A4FA</xml_checksum>
   <class_name>CreateBaselineBuilding</class_name>
   <display_name>Create ASHRAE 90.1-2019 PRM Model</display_name>
@@ -614,7 +614,7 @@
       <filename>measure.rb</filename>
       <filetype>rb</filetype>
       <usage_type>script</usage_type>
-      <checksum>0E314AA6</checksum>
+      <checksum>C7F8661D</checksum>
     </file>
     <file>
       <filename>ASHRAE9012019PRM_Test.rb</filename>
