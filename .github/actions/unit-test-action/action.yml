@@ -1,0 +1,4 @@
+name: 'Unit Test Action'
+runs:
+  using: 'docker'
+  image: '../../../Dockerfile'

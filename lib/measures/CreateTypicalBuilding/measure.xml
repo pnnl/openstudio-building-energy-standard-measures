@@ -3,8 +3,8 @@
   <schema_version>3.1</schema_version>
   <name>create_typical_building</name>
   <uid>fa93dfc5-9f4f-4f8f-9db7-3aa5ccf38e5d</uid>
-  <version_id>57ae1469-01ed-4d84-9d70-86ae11df35e0</version_id>
-  <version_modified>2024-06-27T21:00:44Z</version_modified>
+  <version_id>4ce62f50-b7d1-46a3-b2e2-c8e89c99199f</version_id>
+  <version_modified>2024-12-20T20:55:22Z</version_modified>
   <xml_checksum>6CE0A70A</xml_checksum>
   <class_name>CreateTypicalBuilding</class_name>
   <display_name>Create Typical Building</display_name>
@@ -220,6 +220,10 @@
         <choice>
           <value>Existing HVAC</value>
           <display_name>Existing HVAC</display_name>
+        </choice>
+        <choice>
+          <value>Inferred</value>
+          <display_name>Inferred</display_name>
         </choice>
         <choice>
           <value>JSON specified</value>
@@ -902,25 +906,13 @@
       <filename>LICENSE.md</filename>
       <filetype>md</filetype>
       <usage_type>license</usage_type>
-      <checksum>7C2CADD0</checksum>
+      <checksum>EAF3EFF6</checksum>
     </file>
     <file>
       <filename>README.md</filename>
       <filetype>md</filetype>
       <usage_type>readme</usage_type>
-      <checksum>5208BBA1</checksum>
-    </file>
-    <file>
-      <filename>README.md.erb</filename>
-      <filetype>erb</filetype>
-      <usage_type>readmeerb</usage_type>
-      <checksum>F1C26127</checksum>
-    </file>
-    <file>
-      <filename>.gitkeep</filename>
-      <filetype>gitkeep</filetype>
-      <usage_type>doc</usage_type>
-      <checksum>00000000</checksum>
+      <checksum>28346E7B</checksum>
     </file>
     <file>
       <version>
@@ -931,13 +923,13 @@
       <filename>measure.rb</filename>
       <filetype>rb</filetype>
       <usage_type>script</usage_type>
-      <checksum>A52F4719</checksum>
+      <checksum>FC46D139</checksum>
     </file>
     <file>
       <filename>create_typical_resources.rb</filename>
       <filetype>rb</filetype>
       <usage_type>resource</usage_type>
-      <checksum>1E789C5E</checksum>
+      <checksum>3CBA4D47</checksum>
     </file>
     <file>
       <filename>create_typical_building_test.rb</filename>
@@ -955,7 +947,7 @@
       <filename>source/ASHRAESmallOffice.osm</filename>
       <filetype>osm</filetype>
       <usage_type>test</usage_type>
-      <checksum>ECC84F01</checksum>
+      <checksum>5ECE7EF1</checksum>
     </file>
     <file>
       <filename>source/hvac_mapping_path/hvac_zone_mapping.json</filename>

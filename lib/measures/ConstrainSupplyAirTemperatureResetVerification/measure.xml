@@ -3,8 +3,8 @@
   <schema_version>3.1</schema_version>
   <name>constrain_supply_air_temperature_reset_verification</name>
   <uid>7f59756b-16e7-4bb2-a122-7e7a3a8bfbc6</uid>
-  <version_id>54f5d1b9-a933-4ecb-96c6-11f954165f26</version_id>
-  <version_modified>2024-09-30T22:52:39Z</version_modified>
+  <version_id>9c979c9d-a00f-4774-9b99-6b0b6de18514</version_id>
+  <version_modified>2024-12-20T20:55:20Z</version_modified>
   <xml_checksum>6A20E99B</xml_checksum>
   <class_name>ConstrainSupplyAirTemperatureResetVerification</class_name>
   <display_name>Supply Air Temperature Reset Verification</display_name>
@@ -67,7 +67,7 @@
       <filename>LICENSE.md</filename>
       <filetype>md</filetype>
       <usage_type>license</usage_type>
-      <checksum>00000000</checksum>
+      <checksum>67DFE812</checksum>
     </file>
     <file>
       <filename>README.md</filename>
@@ -84,7 +84,7 @@
       <filename>measure.py</filename>
       <filetype>py</filetype>
       <usage_type>script</usage_type>
-      <checksum>6CDC5A23</checksum>
+      <checksum>F5C61748</checksum>
     </file>
     <file>
       <filename>__init__.py</filename>
@@ -108,7 +108,7 @@
       <filename>test_measure.py</filename>
       <filetype>py</filetype>
       <usage_type>test</usage_type>
-      <checksum>E483C774</checksum>
+      <checksum>820C8890</checksum>
     </file>
   </files>
 </measure>

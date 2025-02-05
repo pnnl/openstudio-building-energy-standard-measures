@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
 <measure>
   <schema_version>3.1</schema_version>
+  <error>Failed to infer measure name from '/github/workspace/./lib/measures/GenerateIPLVChillerElectricEIRPerformanceCurves/measure.py'</error>
   <name>generate_iplv_specific_chiller_performance_curves_for_chillers</name>
   <uid>5cd98b4e-ddfe-44ab-9dca-d9885f57a216</uid>
-  <version_id>9eeccbb6-7517-4337-9feb-fcee913c7cf8</version_id>
-  <version_modified>2024-04-24T19:59:05Z</version_modified>
+  <version_id>df9990dc-cc82-4e71-92e6-f847c4eb1000</version_id>
+  <version_modified>2025-02-05T19:19:27Z</version_modified>
   <xml_checksum>905C4D50</xml_checksum>
   <class_name>GenerateIPLVChillerElectricEIRPerformanceCurves</class_name>
   <display_name>Generate IPLV-specific Chiller Performance Curves for Chillers (Chiller:Electric:EIR).</display_name>
